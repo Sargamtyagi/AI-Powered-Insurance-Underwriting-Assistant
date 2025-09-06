@@ -1,3 +1,8 @@
+---
+## 📸 Demo Screenshot
+
+![App Screenshot](Screenshot%202025-09-06%20173834.png)
+
 # AI-Powered-Insurance-Underwriting-Assistant
 This project is a **GenAI-powered application** built with **Google Vertex AI Studio**, **Gemini 2.0 model**, and **Gradio**.   It helps insurance underwriters by **summarizing client information** and **highlighting potential risk factors** based on customer notes.
 
@@ -15,4 +20,6 @@ This project is a **GenAI-powered application** built with **Google Vertex AI St
 - **Google Vertex AI GenAI SDK**
 - **Gemini 2.0 Model**
 - **Gradio (UI Framework)**
+
+
   
