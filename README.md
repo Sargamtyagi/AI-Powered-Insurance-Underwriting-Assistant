@@ -15,4 +15,4 @@ This project is a **GenAI-powered application** built with **Google Vertex AI St
 - **Google Vertex AI GenAI SDK**
 - **Gemini 2.0 Model**
 - **Gradio (UI Framework)**
-- 
+  
